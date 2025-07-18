@@ -1,0 +1,13 @@
+node_modules/
+.env
+dist/
+
+git remote add origin https://github.com/SEU_USUARIO/meu-projeto.git
+
+git add .
+
+git commit -m "Primeiro commit"
+
+git branch -M main
+
+git push -u origin main
